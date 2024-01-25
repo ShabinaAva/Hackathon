@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-raleway: Raleway;
+  --font2: Inter;
+  --font-merriweather-sans: "Merriweather Sans";
+
+  /* font sizes */
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font2-size: 20px;
+  --font-size-11xl: 30px;
+  --font-size-6xs-8: 6.8px;
+  --font-size-base: 16px;
+  --font-size-26xl: 45px;
+  --font-size-6xl: 25px;
+  --font-size-29xl: 48px;
+  --font-size-45xl: 64px;
+  --font-size-21xl: 40px;
+  --font3-size: 72px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color: #00245b;
+  --color-darkslateblue-100: rgba(0, 36, 91, 0.53);
+  --color-darkslateblue-200: rgba(0, 36, 91, 0.83);
+  --color-dodgerblue: #4f93ff;
+  --color-gray-100: #252525;
+  --color-lightsteelblue-100: #c2daff;
+  --color1: #9fa4bc;
+  --color-aliceblue: #f3f8ff;
+
+  /* Paddings */
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-xl: 20px;
+  --br-81xl: 100px;
+  --br-11xl: 30px;
+}
